@@ -1,5 +1,5 @@
 # Docker
-Implementing and practicing Docker concepts
+# Implementing and practicing Docker concepts
 # Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
